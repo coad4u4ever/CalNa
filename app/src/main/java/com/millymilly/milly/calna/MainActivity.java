@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_main);
         btnBasic = (Button) findViewById(R.id.btnBasic);
         inputNum = (EditText) findViewById(R.id.inputnum);
-
+        //
         btnBasic.setOnClickListener(this);
     }
 
