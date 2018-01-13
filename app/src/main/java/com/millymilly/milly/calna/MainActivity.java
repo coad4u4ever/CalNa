@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btnBasic = (Button) findViewById(R.id.btnBasic);
         inputNum = (EditText) findViewById(R.id.inputnum);
         //
+        //
         btnBasic.setOnClickListener(this);
     }
 
